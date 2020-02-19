@@ -1,0 +1,16 @@
+{
+    "Name": "Akansha Awasthi",
+    "Position": "Senior Manager",
+    "Team size": 4,
+    "Average revenue generated per PSM (M)": 1.2,
+    "Remote employee": false,
+    "Coverage type": null,
+    "Team members": ["Kanika", "Kartik", "Debu", "Kruteca"],
+    "Pods":
+    {
+        "Pod 1": "Kartik - Insights West",
+        "Pod 2": "Kanika - Tech",
+        "Pod 3": "Brands & Automotives",
+        "Pod 4": "Insights Northeast"
+    }
+}
